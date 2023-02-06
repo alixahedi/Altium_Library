@@ -2,11 +2,11 @@
 
  Footprint with 3D model, You can use this librarys for Altium Designer!
  
- ###Modules
+ ### Modules
 - [x] Sim800L module
 - [x] LM2596 module (3A)
 
-###Components
+### Components
 - [x] 2_Digit_Segment (CA or CC does not matter)
 - [x] 74HC595N (Dip)
 - [x] G2R-2 (Special type relay)
