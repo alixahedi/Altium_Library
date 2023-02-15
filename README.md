@@ -3,7 +3,7 @@
  Footprint with 3D model, You can use this librarys for Altium Designer!
  
  ### Modules
-- [x] Sim800L module
+- [x] Sim800L module (Red one)
 - [x] LM2596 module (3A)
 
 ### Components
