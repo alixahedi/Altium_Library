@@ -13,3 +13,4 @@
 - [x] PC817C (Dip)
 - [x] WS2812B-B (Smd)
 - [x] ISD17xx (Dip - single-chip multimessage voice record and playback device)
+- [x] W25Qxx External Flash memory QSPI
