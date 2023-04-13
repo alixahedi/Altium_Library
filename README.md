@@ -14,3 +14,4 @@
 - [x] WS2812B-B (Smd)
 - [x] ISD17xx (Dip - single-chip multimessage voice record and playback device)
 - [x] W25Qxx External Flash memory QSPI
+- [x] MPS20N0040D-S (Air Pressure Sensor)
