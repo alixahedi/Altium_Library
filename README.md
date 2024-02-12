@@ -16,3 +16,4 @@
 - [x] ISD17xx (Dip - single-chip multimessage voice record and playback device)
 - [x] W25Qxx External Flash memory QSPI
 - [x] MPS20N0040D-S (Air Pressure Sensor)
+- [x] XPT2046 (Resistive touch screen controller)
