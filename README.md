@@ -6,6 +6,7 @@
 - [x] Sim800L module (Red one)
 - [x] LM2596 module (3A)
 - [x] STM32F103C8T6 Header Board (BluePill)
+- [x] Lora E32-433T20D
 
 ### Components
 - [x] 2_Digit_Segment (CA or CC does not matter)
