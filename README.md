@@ -7,7 +7,7 @@
 - [x] LM2596 module (3A)
 - [x] STM32F103C8T6 Header Board (BluePill)
 - [x] Lora E32-433T20D
-- [x] WX-DC12003 (AC-t-DC PowerSuply)
+- [x] WX-DC12003 (AC-to-DC PowerSuply)
 
 ### Components
 - [x] 2_Digit_Segment (CA or CC does not matter)
