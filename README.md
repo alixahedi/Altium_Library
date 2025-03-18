@@ -57,6 +57,21 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or suggestions, feel free to reach out via email:
 📧 Alixahedi@gmail.com
 
+<br/>
+<a href="https://twitter.com/alixahedi">
+<img align="left" alt="Alix | Twitter" width="22px" src="https://github.com/alixahedi/alixahedi/blob/main/assests/img/social/Twitter.png" />
+</a>
+<a href="https://www.linkedin.com/in/ali-zahedi-b5a360158//">
+<img align="left" alt="Ali's LinkedIN" width="22px" src="https://github.com/alixahedi/alixahedi/blob/main/assests/img/social/Linkedin.png" />
+</a>
+<a href="https://www.facebook.com/Alixahedi/">
+<img align="left" alt="Ali's FaceBook" width="22px" src="https://github.com/alixahedi/alixahedi/blob/main/assests/img/social/fb.png" />
+</a>
+<a href="https://www.instagram.com/Alixahedi">
+<img align="left" alt="Ali's Instagram" width="22px" src="https://github.com/alixahedi/alixahedi/blob/main/assests/img/social/insta.png" />
+</a>
+<br/>
+
 ###
 
 🔥 Happy Designing! 🚀
