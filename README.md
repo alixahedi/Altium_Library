@@ -13,6 +13,7 @@ This repository contains a collection of footprints and 3D models for **Altium D
 
 ### 🔩 Components
 - **2_Digit_Segment** – 2-digit 7-segment display (common cathode/anode).
+- - **Clock_4Digit_Segment** – 4-digit clock 7-segment display (common cathode/anode).
 - **74HC595N** – 8-bit shift register (DIP package).
 - **G2R-2** – Double-pole relay.
 - **PC817C** – Optocoupler (DIP package).
